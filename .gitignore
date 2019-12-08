@@ -1,0 +1,4 @@
+# exclude everything
+.ipynb_checkpoints/
+
+# exception to the rule
